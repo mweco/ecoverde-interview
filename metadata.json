@@ -1,0 +1,5 @@
+{
+  "name": "Baumpartner Testimonial Bot",
+  "description": "Ein interaktiver Chat-Bot, um Interviews mit Baumpartnern zu führen und automatisch formatierte Testimonials für die Webseite zu generieren.",
+  "requestFramePermissions": []
+}
