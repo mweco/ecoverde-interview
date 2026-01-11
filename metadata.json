@@ -1,5 +1,8 @@
 {
-  "name": "Baumpartner Testimonial Bot",
-  "description": "Ein interaktiver Chat-Bot, um Interviews mit Baumpartnern zu führen und automatisch formatierte Testimonials für die Webseite zu generieren.",
-  "requestFramePermissions": []
+  "name": "ecoverde feedback",
+  "description": "Ein interaktives Chat-Bot-Tool für ecoverde Baumpartner, um Testimonials zu generieren.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
 }
